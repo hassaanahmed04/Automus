@@ -15,5 +15,5 @@ Automus is a Python-based tool that automates the creation of PowerPoint present
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/automus.git
+   git clone https://github.com/hassaanahmed04/automus.git
    cd automus
